@@ -1,6 +1,6 @@
 import 'package:google_generative_ai/google_generative_ai.dart';
 
-const apiKey = 'AIzaSyBiTikvtoGbTnJdthLj_BEcXKdhPAxoKW0';
+const apiKey = '"12345-SECRET';
 String numberOfQuestions = "5";
 
 class QuestionAnswerGenerator {
